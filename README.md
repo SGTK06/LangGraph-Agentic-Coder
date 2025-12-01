@@ -22,3 +22,5 @@ The Coding Agent is expected to:
 
 - Implement the software according to the plan
 - Debug or Refactor the code until all test cases pass
+
+<img src="https://github.com/SGTK06/LangGraph-Agentic-Coder/blob/main/Project-Plan/AgentStructure.drawio.png">
